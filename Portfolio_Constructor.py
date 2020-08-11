@@ -2,7 +2,7 @@
 """
 Created on Wed Aug  7 17:35:50 2019
 
-@author: Kaidong.Wu, Victor.Long
+@author: Victor.Long
 """
 
 #%%
